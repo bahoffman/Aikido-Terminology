@@ -33,10 +33,10 @@ gokyo
 rokkyo  
 shiho-nage  
 kote-gaeshi  
-irimi-nage
-koshi-nage
-juji-nage
-juji-garami
+irimi-nage  
+koshi-nage  
+juji-nage  
+juji-garami  
 aiki-otoshi  
 kokyu-ho
 
