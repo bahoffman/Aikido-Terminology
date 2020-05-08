@@ -134,11 +134,11 @@ kosa-dori
 morote-dori  
 ryote-dori  
 ushiro-ryote-dori  
-katate-men-uchi
-mune-dori
-ryo-mune-dori
-kata-dori
-ryo-kata-dori
+katate-men-uchi  
+mune-dori  
+ryo-mune-dori  
+kata-dori  
+ryo-kata-dori  
 kubi-shime
 
 ## Strikes
