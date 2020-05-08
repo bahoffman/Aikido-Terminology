@@ -161,3 +161,11 @@ kubi-shime
 shomen-uchi  
 yoko-men uchi  
 tsuki
+
+# People
+
+Ueshiba Morihei  
+Saito Morihiro  
+Shioda Gozo  
+Tohei Koichi  
+Tomiki Kenji
