@@ -70,6 +70,8 @@ kumi-tachi
 saya  
 tsuba  
 tkuba
+ki-musubi-no-tachi  
+daisho
 
 suwari-waza  
 tachi-waza  
@@ -106,6 +108,8 @@ gi
 jiyu-waza  
 waza  
 Budo  
+Bushido  
+Samurai  
 Bujutsu  
 aiki-ken  
 aiki-jo  
