@@ -4,7 +4,10 @@ Aikido
 
 # Titles
 
-O-Sensei  
+O-Sensei -
+
+> Ōsensei (大先生/翁先生, great teacher, grand master) is a Japanese term, a stronger form of sensei (先生, teacher).
+
 Doshu  
 Waka-Sensei  
 Dojo-cho  
@@ -95,7 +98,10 @@ yudansha
 
 # Organizations
 
-Aiki-kai  
+Aikikai -
+
+> The Aikikai is the original school of Aikido.[1] It is centered on the Aikikai Foundation in Japan, and its figurehead is the Doshu (the family heir of the founder of Aikido). It is represented globally through the International Aikido Federation.
+
 Iwama Ryu  
 Yoshinkan  
 Ki-Society  
