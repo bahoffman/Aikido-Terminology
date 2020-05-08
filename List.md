@@ -11,7 +11,7 @@ Shidoin
 Sensei  
 uchi-deshi  
 sempai  
-kokai
+kohai
 
 # Footwork
 
