@@ -1,18 +1,21 @@
 Aikido
 
+# Titles
+
 O-Sensei  
 Doshu  
 Waka-Sensei  
 Dojo-cho  
-Sensei  
-Shihan
+Shihan  
+Shidoin  
+Sensei
 
 # Footwork
 
 Ashi-sabaki  
-Tai-sabaki
-tenkan
-tenkai
+Tai-sabaki  
+tenkan  
+tenkai  
 irimi  
 tsugi ashi  
 ayumi ashi  
@@ -28,7 +31,9 @@ yonkyo
 gokyo  
 rokkyo  
 shiho-nage  
-kote-gaeshi
+kote-gaeshi  
+irimi-nage  
+kokyu-ho
 
 Dojo  
 Shomen  
@@ -46,7 +51,7 @@ Ki
 
 Bokken  
 Tanto  
-Jo
+Jo  
 Tanto-dori  
 Jo-dori  
 kumi-tachi
@@ -96,12 +101,12 @@ omote
 ura  
 atemi
 
-ichi
-ni
+ichi  
+ni  
 san  
 shi  
 go  
-roku
+roku  
 nana  
 hachi  
 kyu  
@@ -116,7 +121,7 @@ kosa-dori
 morote-dori  
 ryote-dori  
 ushiro-ryote-dori  
-katete-men-uchi
+katate-men-uchi
 
 ## Strikes
 
