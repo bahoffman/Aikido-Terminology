@@ -7,14 +7,14 @@ Dojo-cho
 Sensei  
 Shihan
 
-## Footwork
+# Footwork
 
 Ashi-sabaki  
 Tai-sabaki  
 omote  
 ura
 
-## Techniques
+# Techniques
 
 ikkyo  
 nikkyo  
@@ -26,6 +26,7 @@ shiho-nage
 kote-gaeshi
 
 Dojo  
+Shomen
 Kamiza  
 Seiza  
 Shizen-Tai  
@@ -33,15 +34,16 @@ Kamai
 Mai (Mawai)
 
 orenai-tei  
+te-gatana  
 Ki
 
-## Weapons
+# Weapons
 
 Bokken  
 Tanto  
 Jo
-Tanto-dori
-Jo-dori
+Tanto-dori  
+Jo-dori  
 kumi-tachi
 
 suwari-waza  
@@ -65,3 +67,53 @@ Ki-Society
 
 Gasshuku  
 Embu-kai
+
+kagari-geiko  
+keiko-gi  
+gi  
+jiyu-waza  
+waza  
+Budo  
+Bujutsu  
+aiki-ken  
+aiki-jo  
+aiki-undo
+rei  
+otagai ni rei  
+domo  
+domo arigato gozaimasu
+
+mai  
+ushiro  
+migi  
+hidari  
+omote  
+ura
+
+ichi
+ni
+san  
+shi  
+go  
+roku
+nana  
+hachi  
+kyu  
+ju
+
+# Attacks
+
+## Grabs
+
+katate-dori  
+kosa-dori  
+morote-dori  
+ryote-dori  
+ushiro-ryote-dori  
+katete-men-uchi
+
+## Strikes
+
+shomen-uchi  
+yoko-men uchi  
+suki
