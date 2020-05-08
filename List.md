@@ -168,4 +168,5 @@ Ueshiba Morihei
 Saito Morihiro  
 Shioda Gozo  
 Tohei Koichi  
-Tomiki Kenji
+Tomiki Kenji  
+Ben Hoffman
