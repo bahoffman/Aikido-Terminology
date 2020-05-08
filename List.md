@@ -21,7 +21,8 @@ tsugi ashi
 ayumi ashi  
 okuri ashi  
 suri ashi  
-shikko
+shikko  
+namba aruki
 
 # Techniques
 
