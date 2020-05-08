@@ -11,9 +11,19 @@ O-Sensei -
 Doshu  
 Waka-Sensei  
 Dojo-cho  
-Shihan  
-Shidoin  
-Sensei  
+Shihan -
+
+> Shihan (師範) - Title of "Master" is a Japanese Honorific Title, Expert License Certification used in Japanese martial arts for Master Level Instructors. The award of the Expert License Certification is if designated by the qualification by virtue of endorsement by the [A] Association of Chief Instructors or [B] Administration Head of an Association. SHOU-GOU 称号 is the masters title-system set up by the Dai-Nippon Butoku-kai (greater Japan Budo Encouragement Federation established in 1895 in Kyoto). It is consist of three ranks, Renshi, Kyoshi and Hanshi. The sho-go awarded consist of the three similar ranks and are therefore classical ranks/titles similar to Samurai titles given under the auspices of Japan's Imperial Family during feudal times. The award of sho-go is based on each individual’s knowledge, teaching ability and the outstanding development of character through the study of the karate. Therefore it is important to realize that in the modern approach to karate, these titles/ranks are much more difficult to achieve than the conventional Dan grades and are NOT automatically assigned with rank or seniority. The holder of these titles must also have made significant contributions to the karate community at large. The title/sho-go may or may not be given to a Fellow on application, or may be awarded after the fellow has been in fellowship for some time.
+
+Shidoin -
+
+> Shidōin (指導員:しどういん) is a Japanese title, often used in Japanese martial arts.
+> The word Shidōin means "instructor" or "teacher" and is typically used as an honorific title to identify an intermediate level instructor within an organization or budo dojo.[1] By comparison, an assistant instructor or teacher would have the title Fuku Shidoin, while a senior instructor would have the title Shihan, meaning "leader", "guide" or "ideal".
+
+Sensei -
+
+> Sensei, Sinsang, (Sonsaeng/Seonsaeng equivalent in Korean) or Xiansheng (先生) is an honorific term shared in Chinese, Korean, and Japanese honorifics that is translated as "person born before another" or "one who comes before".[1] In general usage, it is used, with proper form, after a person's name and means "teacher";[2] the word is also used as a title to refer to or address other professionals or persons of authority, such as clergy, accountants, lawyers, physicians and politicians [3] or to show respect to someone who has achieved a certain level of mastery in an art form or some other skill, e.g., accomplished novelists, musicians, artists and martial artists.
+
 uchi-deshi  
 sempai  
 kohai
