@@ -52,7 +52,9 @@ Mai (Mawai)
 
 orenai-tei  
 te-gatana  
-Ki
+Ki  
+tanden  
+hara
 
 # Weapons
 
