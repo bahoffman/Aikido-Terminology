@@ -10,9 +10,14 @@ Shihan
 # Footwork
 
 Ashi-sabaki  
-Tai-sabaki  
-omote  
-ura
+Tai-sabaki
+tenkan
+tenkai
+irimi  
+tsugi ashi  
+ayumi ashi  
+okuri ashi  
+shikko
 
 # Techniques
 
@@ -26,7 +31,7 @@ shiho-nage
 kote-gaeshi
 
 Dojo  
-Shomen
+Shomen  
 Kamiza  
 Seiza  
 Shizen-Tai  
@@ -84,11 +89,12 @@ domo
 domo arigato gozaimasu
 
 mai  
-ushiro  
+ushiro
 migi  
 hidari  
 omote  
-ura
+ura  
+atemi
 
 ichi
 ni
