@@ -20,6 +20,7 @@ irimi
 tsugi ashi  
 ayumi ashi  
 okuri ashi  
+suri ashi
 shikko
 
 # Techniques
@@ -32,7 +33,11 @@ gokyo
 rokkyo  
 shiho-nage  
 kote-gaeshi  
-irimi-nage  
+irimi-nage
+koshi-nage
+juji-nage
+juji-garami
+aiki-otoshi  
 kokyu-ho
 
 Dojo  
@@ -122,6 +127,11 @@ morote-dori
 ryote-dori  
 ushiro-ryote-dori  
 katate-men-uchi
+mune-dori
+ryo-mune-dori
+kata-dori
+ryo-kata-dori
+kubi-shime
 
 ## Strikes
 
