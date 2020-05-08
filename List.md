@@ -20,7 +20,7 @@ irimi
 tsugi ashi  
 ayumi ashi  
 okuri ashi  
-suri ashi
+suri ashi  
 shikko
 
 # Techniques
