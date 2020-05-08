@@ -69,7 +69,7 @@ Jo-dori
 kumi-tachi  
 saya  
 tsuba  
-tkuba
+tkuba  
 ki-musubi-no-tachi  
 daisho
 
