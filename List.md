@@ -1,41 +1,44 @@
 Aikido
 
-O-Sensei
-Doshu
-Waka-Sensei
-Dojo-cho
-Sensei
+O-Sensei  
+Doshu  
+Waka-Sensei  
+Dojo-cho  
+Sensei  
 Shihan
 
-##Footwork
-Ashi-sabaki
-Tai-sabaki
-omote
+## Footwork
+
+Ashi-sabaki  
+Tai-sabaki  
+omote  
 ura
 
-##techniques
-ikkyo
-nikkyo
-sankyo
-yonkyo
-gokyo
-rokkyo
-shiho-nage
+## Techniques
+
+ikkyo  
+nikkyo  
+sankyo  
+yonkyo  
+gokyo  
+rokkyo  
+shiho-nage  
 kote-gaeshi
 
-Dojo
-Kamiza
-Seiza
-Shizen-Tai
-Kamai
+Dojo  
+Kamiza  
+Seiza  
+Shizen-Tai  
+Kamai  
 Mai (Mawai)
 
-orenai-tei
+orenai-tei  
 Ki
 
-Bokken
-Tanto
+Bokken  
+Tanto  
 Jo
 
-suwari-waza
+suwari-waza  
 tachi-waza
+ukemi
