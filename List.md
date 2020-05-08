@@ -164,9 +164,24 @@ tsuki
 
 # People
 
-Ueshiba Morihei  
-Saito Morihiro  
-Shioda Gozo  
-Tohei Koichi  
-Tomiki Kenji  
+Ueshiba Morihei -
+
+> Morihei Ueshiba (植芝 盛平, Ueshiba Morihei, December 14, 1883 – April 26, 1969) was a Japanese martial artist and founder of the martial art of aikido. He is often referred to as "the founder" Kaiso (開祖) or Ōsensei (大先生/翁先生), "Great Teacher".
+
+Saito Morihiro -
+
+> Morihiro Saito (斉藤 守弘 Saitō Morihiro, March 31, 1928–May 13, 2002) was a teacher of the Japanese martial art of aikido, with many students around the world. Saito's practice of aikido spanned 56 years, from the age of 18, when he first met aikido founder Morihei Ueshiba, until his death in 2002.[1]
+
+Shioda Gozo -
+
+> Gozo Shioda (塩田 剛三, Shioda Gōzō, September 9, 1915 – July 17, 1994) was a Japanese master of aikido who founded the Yoshinkan style of aikido.[1][2] He was one of aikido founder Morihei Ueshiba's most senior students.[2][3][4][5][6] Shioda held the rank of 10th dan in aikido.[1]
+
+Tohei Koichi -
+
+> Koichi Tohei (藤平光一, Tōhei Kōichi) (20 January 1920 – 19 May 2011)[1] was a 10th Dan aikidoka and founder of the Ki Society and its style of aikido, officially Shin Shin Toitsu Aikido (literally "aikido with mind and body unified"), but commonly known as Ki-Aikido.
+
+Tomiki Kenji -
+
+> Kenji Tomiki (富木 謙治, Tomiki Kenji, March 15, 1900 – December 25, 1979) was a Japanese aikido and judo teacher and the founder of competitive aikido (aikido kyogi) style.[1] The style is referred by several names including Tomiki Aikido, Shodokan Aikido and Sport Aikido.
+
 Ben Hoffman
