@@ -94,7 +94,7 @@ domo
 domo arigato gozaimasu
 
 mai  
-ushiro
+ushiro  
 migi  
 hidari  
 omote  
