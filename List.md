@@ -60,7 +60,7 @@ Tanto
 Jo  
 Tanto-dori  
 Jo-dori  
-kumi-tachi
+kumi-tachi  
 saya  
 tsuba  
 tkuba
