@@ -61,6 +61,9 @@ Jo
 Tanto-dori  
 Jo-dori  
 kumi-tachi
+saya  
+tsuba  
+tkuba
 
 suwari-waza  
 tachi-waza  
