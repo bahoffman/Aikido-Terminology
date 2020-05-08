@@ -155,4 +155,4 @@ kubi-shime
 
 shomen-uchi  
 yoko-men uchi  
-suki
+tsuki
