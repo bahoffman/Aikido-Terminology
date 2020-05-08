@@ -63,7 +63,10 @@ kumi-tachi
 
 suwari-waza  
 tachi-waza  
-ukemi  
+ukemi
+
+# Ranks
+
 shodan  
 ni-dan  
 san-dan  
@@ -73,7 +76,10 @@ roku-dan
 nana-dan  
 hachi-dan  
 kyu-dan  
-kuro-bi
+kuro-bi  
+yudansha
+
+# Organizations
 
 Aiki-kai  
 Iwama Ryu  
@@ -105,6 +111,8 @@ hidari
 omote  
 ura  
 atemi
+
+# Counting
 
 ichi  
 ni  
