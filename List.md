@@ -9,7 +9,9 @@ Dojo-cho
 Shihan  
 Shidoin  
 Sensei  
-uchi-deshi
+uchi-deshi  
+sempai  
+kokai
 
 # Footwork
 
