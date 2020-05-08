@@ -8,7 +8,8 @@ Waka-Sensei
 Dojo-cho  
 Shihan  
 Shidoin  
-Sensei
+Sensei  
+uchi-deshi
 
 # Footwork
 
@@ -56,6 +57,7 @@ Ki
 # Weapons
 
 Bokken  
+Boku-to  
 Tanto  
 Jo  
 Tanto-dori  
