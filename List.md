@@ -94,7 +94,8 @@ yudansha
 Aiki-kai  
 Iwama Ryu  
 Yoshinkan  
-Ki-Society
+Ki-Society  
+Tomiki
 
 Gasshuku  
 Embu-kai
