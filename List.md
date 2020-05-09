@@ -1,4 +1,4 @@
-Aikido
+#Aikido
 
 > Aikido (合気道, aikidō, Japanese pronunciation: [aikiꜜdoː], kyūjitai: 合氣道) is a modern Japanese martial art developed by Morihei Ueshiba as a synthesis of his martial studies, philosophy and religious beliefs. Ueshiba's goal was to create an art that practitioners could use to defend themselves while also protecting their attackers from injury.[1][2] Aikido is often translated as "the way of unifying (with) life energy"[3] or as "the way of harmonious spirit".[4] According to the founder's philosophy, the primary goal in the practice of aikido is to overcome oneself instead of cultivating violence or aggressiveness.[5] Morihei Ueshiba used the phrase "masakatsu agatsu katsuhayabi" (Japanese: 正勝吾勝勝速日) ("true victory, final victory over oneself, here and now") to refer to this principle[6].
 
