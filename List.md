@@ -82,6 +82,8 @@ Jo
 Tanto-dori  
 Jo-dori  
 kumi-tachi  
+aiki-ken  
+aiki-jo  
 saya  
 tsuba  
 tkuba  
@@ -121,17 +123,19 @@ Gasshuku
 Embu-kai
 
 kagari-geiko  
+jiyu-waza  
 keiko-gi  
 gi  
-jiyu-waza  
 waza  
 Budo  
 Bushido  
-Samurai  
 Bujutsu  
-aiki-ken  
-aiki-jo  
+Samurai
+
 aiki-undo
+
+# Etiquette
+
 rei  
 otagai ni rei  
 domo  
