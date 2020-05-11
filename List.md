@@ -99,7 +99,8 @@ Aikikai -
 Iwama Ryu  
 Yoshinkan  
 Ki-Society  
-Tomiki
+Tomiki  
+IAF
 
 # Etiquette
 
