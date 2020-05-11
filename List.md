@@ -126,8 +126,8 @@ kagari-geiko
 jiyu-waza  
 keiko-gi  
 gi  
-hakama
-obi
+hakama  
+obi  
 waza  
 Budo  
 Bushido  
