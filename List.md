@@ -59,20 +59,6 @@ juji-garami
 aiki-otoshi  
 kokyu-ho
 
-Dojo  
-Shomen  
-Kamiza  
-Seiza  
-Shizen-Tai  
-Kamai  
-Mai (Mawai)
-
-orenai-tei  
-te-gatana  
-Ki  
-tanden  
-hara
-
 # Weapons
 
 Bokken  
@@ -89,10 +75,6 @@ tsuba
 tkuba  
 ki-musubi-no-tachi  
 daisho
-
-suwari-waza  
-tachi-waza  
-ukemi
 
 # Ranks
 
@@ -119,37 +101,12 @@ Yoshinkan
 Ki-Society  
 Tomiki
 
-Gasshuku  
-Embu-kai
-
-kagari-geiko  
-jiyu-waza  
-keiko-gi  
-gi  
-hakama  
-obi  
-waza  
-Budo  
-Bushido  
-Bujutsu  
-Samurai
-
-aiki-undo
-
 # Etiquette
 
 rei  
 otagai ni rei  
 domo  
 domo arigato gozaimasu
-
-mai  
-ushiro  
-migi  
-hidari  
-omote  
-ura  
-atemi
 
 # Counting
 
@@ -209,3 +166,48 @@ Tomiki Kenji -
 > Kenji Tomiki (富木 謙治, Tomiki Kenji, March 15, 1900 – December 25, 1979) was a Japanese aikido and judo teacher and the founder of competitive aikido (aikido kyogi) style.[1] The style is referred by several names including Tomiki Aikido, Shodokan Aikido and Sport Aikido.
 
 Ben Hoffman
+
+# Misc.
+
+Dojo  
+Shomen  
+Kamiza  
+Seiza  
+Shizen-Tai  
+Kamai  
+Mai (Mawai)
+
+orenai-tei  
+te-gatana  
+Ki  
+tanden  
+hara
+
+suwari-waza  
+tachi-waza  
+ukemi
+
+Gasshuku  
+Embu-kai
+
+kagari-geiko  
+jiyu-waza  
+keiko-gi  
+gi  
+hakama  
+obi  
+waza  
+Budo  
+Bushido  
+Bujutsu  
+Samurai
+
+aiki-undo
+
+mai  
+ushiro  
+migi  
+hidari  
+omote  
+ura  
+atemi
