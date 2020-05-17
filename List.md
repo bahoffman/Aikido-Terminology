@@ -73,10 +73,17 @@ aiki-jo
 saya  
 tsuba  
 tkuba  
-ki-musubi-no-tachi  
 daisho  
 uchi-tachi  
-uke-tachi
+uke-tachi  
+kumi-tachi  
+kumi-jo  
+ichi-no-tachi  
+ni-no-tachi  
+san-no-tachi  
+yon-no-tachi  
+go-no-tachi  
+ki-musubi-no-tachi
 
 # Ranks
 
