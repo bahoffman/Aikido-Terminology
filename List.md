@@ -83,7 +83,8 @@ ni-no-tachi
 san-no-tachi  
 yon-no-tachi  
 go-no-tachi  
-ki-musubi-no-tachi
+ki-musubi-no-tachi  
+suburi
 
 # Ranks
 
