@@ -74,7 +74,7 @@ saya
 tsuba  
 tkuba  
 ki-musubi-no-tachi  
-daisho
+daisho  
 uchi-tachi  
 uke-tachi
 
