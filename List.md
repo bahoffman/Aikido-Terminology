@@ -75,6 +75,8 @@ tsuba
 tkuba  
 ki-musubi-no-tachi  
 daisho
+uchi-tachi  
+uke-tachi
 
 # Ranks
 
